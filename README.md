@@ -30,9 +30,11 @@ Utilizaremos a versão 20, mas qualquer versão acima da versão 8 serve também
 
 ### Primeiro programa em java: [Main.java](https://github.com/techpordentro/aprendendo-java/blob/main/Main.java)
 
-### Variaveis - Tipos Primitivos [Variaveis.java](https://github.com/techpordentro/aprendendo-java/blob/main/Variaveis.java)
+### Variaveis
 
-Tipos Primitivos: boolean, byte, char, short, int, long, float e double
+#### Tipos Primitivos [Variaveis.java](https://github.com/techpordentro/aprendendo-java/blob/main/Variaveis.java)
+
+Os tipos primitivos são: boolean, byte, char, short, int, long, float e double
 
 As variáveis de tipo primitivo são inicializadas por padrão, as variáveis dos tipos byte, char, short, int, long, float e double são inicializadas como 0 (ou 0.0), e as variáveis do tipo boolean são inicializadas como false.
 

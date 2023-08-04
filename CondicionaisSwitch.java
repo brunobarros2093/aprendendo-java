@@ -8,7 +8,7 @@ public class CondicionaisSwitch {
                 break; // break = para = sai do fluxo
             case 2:
                 System.out.println("O mês é fevereiro");
-                break;
+                break; // experimente rodar o código sem o break!
             case 3:
                 System.out.println("O mês é março");
                 break;
