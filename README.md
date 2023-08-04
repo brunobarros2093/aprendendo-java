@@ -1,4 +1,4 @@
-# Curso Aprendendo a Programar
+# Curso Aprendendo a Programar no Tiktok
 
 Repositório com os links, códigos e tutoriais do curso 'aprendendo a programar' que desenvolvo no meu perfil do Tiktok [@techpordentro](https://www.tiktok.com/@techpordentro).
 
