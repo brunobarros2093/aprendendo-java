@@ -28,7 +28,7 @@ Utilizaremos a versão 20, mas qualquer versão acima da versão 8 serve também
 
 <hr>
 
-### Primeiro programa em java: (Main.java)[https://github.com/techpordentro/aprendendo-java/blob/main/Main.java]
+### Primeiro programa em java: [Main.java](https://github.com/techpordentro/aprendendo-java/blob/main/Main.java)
 
 ### Variaveis - Tipos Primitivos (Variaveis.java)[https://github.com/techpordentro/aprendendo-java/blob/main/Variaveis.java]
 
