@@ -1,4 +1,4 @@
-public class Condicionais {
+public class CondicionaisIf {
     // Toda classe nossa possui um método main
     // para que possamos executa-la!
     public static void main(String[] args) {

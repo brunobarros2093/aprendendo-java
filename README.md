@@ -30,7 +30,7 @@ Utilizaremos a versão 20, mas qualquer versão acima da versão 8 serve também
 
 ### Primeiro programa em java: [Main.java](https://github.com/techpordentro/aprendendo-java/blob/main/Main.java)
 
-### Variaveis - Tipos Primitivos (Variaveis.java)[https://github.com/techpordentro/aprendendo-java/blob/main/Variaveis.java]
+### Variaveis - Tipos Primitivos [Variaveis.java](https://github.com/techpordentro/aprendendo-java/blob/main/Variaveis.java)
 
 Tipos Primitivos: boolean, byte, char, short, int, long, float e double
 
@@ -38,7 +38,7 @@ As variáveis de tipo primitivo são inicializadas por padrão, as variáveis do
 
 ### Condicionais
 
-## If/else if/else (Condicionais.java)[https://github.com/techpordentro/aprendendo-java/blob/main/Condicionais.java]
+#### If/else if/else [CondicionaisIf.java](https://github.com/techpordentro/aprendendo-java/blob/main/CondicionaisIf.java)
 
 - if/else
 
