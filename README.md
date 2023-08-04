@@ -38,10 +38,12 @@ As variáveis de tipo primitivo são inicializadas por padrão, as variáveis do
 
 ### Condicionais
 
-#### If/else if/else [CondicionaisIf.java](https://github.com/techpordentro/aprendendo-java/blob/main/CondicionaisIf.java)
-
-- if/else
+#### if/else [CondicionaisIf.java](https://github.com/techpordentro/aprendendo-java/blob/main/CondicionaisIf.java)
 
 O if/else é uma estrutura de controle que avalia uma expressão booleana. Se a condição dentro do if for avaliada como verdadeira, o bloco de código associado a ele é executado. Por outro lado, se a condição for avaliada como falsa, o bloco de código associado ao else é executado. Dessa forma, o if/else permite que o programa tome diferentes caminhos de execução com base nas condições lógicas estabelecidas.
 
-- switch/case - em breve
+#### switch/case - [CondicionaisSwitch.java](https://github.com/techpordentro/aprendendo-java/blob/main/CondicionaisSwitch.java)
+
+A estrutura condicional switch/case é uma alternativa quando se tem a necessidade de realizar múltiplas comparações em um código. Ela ajuda a evitar o encadeamento excessivo de if/else, o que poderia tornar o código longo, difícil de ler e de manter.
+
+Em um switch/case, o valor de uma variável é testado e comparado com cada uma das opções definidas pelas instruções case. Caso o valor coincida com alguma das opções, o bloco de código correspondente a essa opção é executado. Caso contrário, é possível definir um bloco de código padrão utilizando a instrução default para ser executado quando nenhuma das opções do switch é atendida.
