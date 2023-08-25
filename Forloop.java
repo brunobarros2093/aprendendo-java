@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class Forloop {
     public static void main(String[] args) {
        List<String> nomes = new ArrayList<>();
        nomes.add("Bruno");

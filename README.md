@@ -49,3 +49,21 @@ O if/else é uma estrutura de controle que avalia uma expressão booleana. Se a 
 A estrutura condicional switch/case é uma alternativa quando se tem a necessidade de realizar múltiplas comparações em um código. Ela ajuda a evitar o encadeamento excessivo de if/else, o que poderia tornar o código longo, difícil de ler e de manter.
 
 Em um switch/case, o valor de uma variável é testado e comparado com cada uma das opções definidas pelas instruções case. Caso o valor coincida com alguma das opções, o bloco de código correspondente a essa opção é executado. Caso contrário, é possível definir um bloco de código padrão utilizando a instrução default para ser executado quando nenhuma das opções do switch é atendida.
+
+#### Foor Loop - [Forloop.java](https://github.com/techpordentro/aprendendo-java/blob/main/Forloop.java)
+
+Um loop "for" em Java é uma estrutura de controle que permite que você execute um bloco de código repetidamente com base em uma condição. A sintaxe básica de um loop "for" em Java é a seguinte:
+
+for (*inicialização*; *condição*; *expressão de iteração*) {
+
+    // Código a ser executado repetidamente
+
+}
+
+Aqui está uma explicação dos três componentes principais do loop "for":
+
+    - Inicialização: Normalmente, isso é usado para inicializar uma variável de controle. É executado apenas uma vez no início do loop.
+
+    - Condição: É uma expressão booleana que determina se o loop deve continuar a ser executado. O loop continuará a ser executado enquanto a condição for verdadeira. Se a condição for falsa no início, o loop não será executado.
+
+    - Expressão de iteração: Isso é geralmente usado para atualizar a variável de controle. É executado após cada iteração do loop.
